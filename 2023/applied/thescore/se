@@ -1,0 +1,61 @@
+https://www.scoremediaandgaming.com/jobs/?gh_jid=4755814004
+Software Developer, Trading
+(View all jobs)
+Toronto
+theScore, a wholly-owned subsidiary of PENN Entertainment , empowers millions of sports fans through its digital media and sports betting products. Its media app ‘theScore’ is one of the most popular in North America, delivering fans highly personalized live scores, news, stats, and betting information from their favorite teams, leagues, and players. theScore’s sports betting app ‘theScore Bet Sportsbook & Casino’ delivers an immersive and holistic mobile sports betting and iCasino experience. theScore Bet is currently live in the Company's home province of Ontario. theScore also creates and distributes innovative digital content through its web, social and esports platforms.
+
+About the Role & Team
+
+As part of the theScore team, you will be working with a team of smart, friendly, and dedicated Engineers, Product Managers and Designers determined to deliver some of the best apps the market has to offer. We want you to be challenged and to get the full experience of what it’s like to work at theScore!
+
+The vegas trading team builds and maintains a key component of our platform. We develop tools for our internal traders to manage our risk and exposure as bets are being placed. We integrate with third parties and the rest of the platform to ingest, in real time, market and wager data. Our team operates with very rigorous constraints around latency, throughput and up-time.
+
+About the Work
+
+As a new member of the Vegas team you will :
+
+Work with our current technology stack composed of Elixir, Phoenix, and LiveView
+Collaborate with the cross-functional team to define the features and changes that will improve our platform and tools
+Help architect, design and implement robust and scalable new features (our system follows a CQRS architecture and makes heavy use of Postgres and Kafka)
+Ensure appropriate monitoring and alerting is in place (we use DataDog and Splunk)
+Ensure development deliverables and processes are documented and key decisions are recorded in accordance with the design and development process.
+Other duties as required.
+About You
+
+A solid foundation in computer science, with strong competencies in data structures, distributed systems, and software/system design.
+Passionate about clean code architecture and software craftsmanship
+Experience working with a functional programming language and a modern web framework
+Experience with relational databases, e.g. PostgreSQL
+Familiarity with monitoring tools such as DataDog and Splunk
+NICE TO HAVE: Prior experience with Elixir/Phoenix/LiveView and experience with Kafka, Kubernetes, and CQRS architecture
+What We Offer
+
+Competitive compensation
+
+coverletter
+
+Dear Hiring Manager,
+
+I am excited to submit my application for the Software Engineer position at theScore. I am
+confident that I have the technical expertise and passion for building innovative products that
+would make me a valuable addition to your team.
+
+As I mentioned to Vincent in the Elixir slack, I regularly listen to the Elixir Mix podcast and it
+is where I first heard of CQRS. It seems like a really good idea but sadly I have yet to use it
+in a practical mannor. There are 2 places where I currently fall a little short of the job description. They are CQRS and LiveView but am eager to learn both.
+
+What interests me about theScore is your dedication to delivering a personalized and immersive
+sports experience for your users. I have always been passionate about sports and technology, and I
+find it compelling how theScore has merged both these worlds to create a platform that offers
+real-time scores, news, and in-depth analysis to millions of sports fans across the globe. I am
+drawn to your company culture of fostering innovation and creativity, and I believe that my skills
+in software engineering align with theScore's vision of building cutting-edge products that drive
+engagement and shape the future of how sports integrate into our everyday lives.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to
+theScore's mission of transforming the sports media landscape through technology. I look forward
+to discussing my qualifications further in an interview.
+
+Sincerely,
+
+Rory Fahy
