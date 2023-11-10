@@ -1,0 +1,2 @@
+- worked nights, early hours and weekends to get our gateway api up and running and to get our first customers on board. We are now in a position to start scaling up
+- created an integration script in java for our first customer in hong kong
